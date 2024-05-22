@@ -1,0 +1,20 @@
+{
+  "name": "workticket",
+  "version": "1.0.0",
+  "description": "crud for a history of IT work ticket",
+  "main": "server.js",
+  "scripts": {
+    "dev": "npx nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10"
+  }
+}
